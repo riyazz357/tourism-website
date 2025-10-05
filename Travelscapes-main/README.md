@@ -52,12 +52,6 @@ cd Travelscapes-main
 
 7. You should now see the Travelscapes website running locally on your machine.
 
-## Contributors
-
-- [Atharva Kulkarni](https://github.com/AtharvaKulkarniIT)
-- [Tejas Kulkarni](https://github.com/Tejas466)
-- [Yash Kulkarni](https://github.com/yashkulkarni45)
- 
 
 ## License
 
